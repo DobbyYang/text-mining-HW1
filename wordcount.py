@@ -6,7 +6,7 @@
 # read sentences from file "Building_Global_Community.txt"
 # read it as a whole sentences
 
-text = open('building_global_community.txt').read()
+text = open('building_global_community-.txt').read()
 
 
 # In[331]:
