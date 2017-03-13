@@ -1,4 +1,8 @@
-# text-mining-HW1
+# text-mining-HW2
 
+- please download the file  "Building_Global_Community.txt"-
+- use cmd to run the python3 wordcount.py
+
+```console 
 ![GitHub Logo](https://github.com/DobbyYang/text-mining-HW1/blob/master/HW2_result.png)
-Format: ![Alt Text](url)
+```
